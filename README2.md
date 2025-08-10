@@ -1,4 +1,5 @@
 # Day 4 — Cross‑Sectional Momentum (12‑1)
+![Equity Curve](charts/xs_mom_equity.png)
 
 Go long the **top‑N ETFs** ranked by **12‑1 momentum** each month. Equal‑weight picks, pay **transaction costs**, subtract **cash drag**, compare vs **equal‑weight** and **SPY**.
 
